@@ -1,5 +1,5 @@
 ### Hi there 👋
-Only a few know my full name, most call me *athen*  ( eɪ - ten )!
+
 - 🔭 I’m currently working on my portfolio and expanding my circle of tech-friends
 - 🌱 I’m currently learning JavaScript API
 <!--
