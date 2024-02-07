@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio and expanding my circle of tech-friends
-- 🌱 I’m currently learning JavaScript API
+- 🌱 I’m currently learning OOP paradigm.
 <!--
 **a-then/a-then** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
