@@ -18,13 +18,10 @@
   </a>
 </p>
 <p align="center">
-- 🌱 I'm a lifelong learner motivated by the power of technology for positive change.
-
-- 🔭 I’m currently learning **OOP paradigm**
-
-- 👯 I’m looking to collaborate on **powerful tools for positive change**
-
-- ⚡ Fun fact **Your brain is constantly eating itself**
+🌱 I'm a lifelong learner motivated by the power of technology for positive change.
+🔭 I’m currently learning **OOP paradigm**
+👯 I’m looking to collaborate on **powerful tools for positive change**
+⚡ Fun fact **Your brain is constantly eating itself**
 </p>
 
 <h3 align="center">Languages and Tools</h3>
