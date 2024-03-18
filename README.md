@@ -1,4 +1,4 @@
-![Anayoslin Then](https://github.com/a-then/a-then/assets/105182208/1ccc0b93-a35d-449e-864a-1e1a1ed54f9d)
+![Anayoslin Then](https://github.com/a-then/a-then/assets/105182208/feed54bd-a71f-469f-a253-603ca9452ad9)
 
 <p align="center" padding="10%">
   <a href="https://a-then.github.io/AThenPortfolio-2023/" target="_blank">
