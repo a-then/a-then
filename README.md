@@ -5,13 +5,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/anayoslinthen" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=efefef&style=flat&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=#417A6B&style=social&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/AThen" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=efefef&style=social&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://wellfound.com/u/anayoslin-then" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=wellfound&color=efefef&style=flat&logo=wellfound&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=wellfound&color=#417A6B&style=social&logo=wellfound&logo-color=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1ahNGuWWC2lhZ-nfkVFepHhFmcEoEsP4X/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
