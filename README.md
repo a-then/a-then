@@ -1,9 +1,24 @@
-<p align="center"> ✨ she/her/ella ✨</p>
-<h1 align="center">Hi, I'm Anayoslin</h1>
-<h3 align="center">Your next Software Engineer from New Jersey</h3>
+![Anayoslin Then](https://github.com/a-then/a-then/assets/105182208/1ccc0b93-a35d-449e-864a-1e1a1ed54f9d)
 
-I'm a lifelong learner with a unique blend of skills and motivated by the power of technology for positive change.
+I'm a lifelong learner motivated by the power of technology for positive change.
 
+<p align="center" padding="10%">
+  <a href="https://a-then.github.io/AThenPortfolio-2023/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/anayoslinthen" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=efefef&style=flat&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/AThen" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=efefef&style=social&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://wellfound.com/u/anayoslin-then" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=wellfound&color=efefef&style=flat&logo=wellfound&logo-color=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1ahNGuWWC2lhZ-nfkVFepHhFmcEoEsP4X/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
+  </a>
+</p>
 - 🔭 I’m currently working on [my portfolio](a-then.github.io/AThenPortfolio-2023/)
 
 - 🌱 I’m currently learning **OOP paradigm**
