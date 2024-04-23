@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 🌱 I'm a lifelong learner motivated by the power of technology for positive change.
-🔭 I’m currently learning **OOP paradigm**
+🔭 I’m currently learning **node.js**
 👯 I’m looking to collaborate on **powerful tools for positive change**
 ⚡ Fun fact **Your brain is constantly eating itself**
 </p>
