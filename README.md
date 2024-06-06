@@ -1,9 +1,7 @@
 ![Anayoslin Then](https://github.com/a-then/a-then/assets/105182208/feed54bd-a71f-469f-a253-603ca9452ad9)
 
 <p align="center" padding="10%">
-  <a href="https://a-then.github.io/AThenPortfolio-2023/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
-  </a>
+  
   <a href="https://linkedin.com/in/anayoslinthen" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=417A6B&style=social&logo=linkedin&logo-color=white"/>
   </a>
@@ -16,10 +14,13 @@
   <a href="https://drive.google.com/file/d/1ahNGuWWC2lhZ-nfkVFepHhFmcEoEsP4X/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=&message=RESUME&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
   </a>
+  <a href="https://a-then.github.io/AThenPortfolio-2023/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=efefef&style=social&logo=googlechrome&logo-color=white"/>
+  </a>
 </p>
 <p align="center">
 🌱 I'm a lifelong learner motivated by the power of technology for positive change.
-🔭 I’m currently learning **node.js**
+🔭 I’m currently learning ** MVC **
 👯 I’m looking to collaborate on **powerful tools for positive change**
 ⚡ Fun fact **Your brain is constantly eating itself**
 </p>
