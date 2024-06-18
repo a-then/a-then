@@ -22,7 +22,7 @@
 <p align="center">
 🌱 I'm a lifelong learner motivated by the power of technology for positive change. <br>
   <br>
-🔭 I’m currently learning ** <a href="https://prezi.com/i/view/JPfWsgMFPbgYE0fHzuN8/">MVC architecture</a>. ** <br>
+🔭 I’m currently learning ** MVC architecture **. <a href="https://prezi.com/i/view/JPfWsgMFPbgYE0fHzuN8/">Check out the infographic I made about it!!</a>.<br>
   <br>
 🌎 I’m looking to collaborate on **projects addressing climate change and global warming**<br>
   <br>
