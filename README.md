@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/anayoslinthen" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=417A6B&style=social&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/AThen" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=TWITTER&color=efefef&style=social&logo=twitter&logo-color=white"/>
-  </a>
   <a href="https://wellfound.com/u/anayoslin-then" target="_blank">
       <img src="https://img.shields.io/static/v1?label=&message=wellfound&color=417A6B&style=social&logo=wellfound&logo-color=white"/>
   </a>
