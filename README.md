@@ -22,7 +22,7 @@
 <p align="center">
 🌱 I'm a lifelong learner motivated by the power of technology for positive change. <br>
   <br>
-🔭 I’m currently learning **Vue 3**. in preparation for my first hackathon.<br>
+🔭 I’m currently learning **Vue 3**. in preparation for fCC's hackathon.<br>
   <br>
 🌎 I’m looking to collaborate on **projects addressing climate change and global warming**<br>
   <br>
