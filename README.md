@@ -21,8 +21,8 @@
   <br>
 🔭 I’m currently learning **Vue 3**. in preparation for fCC's hackathon.<br>
   <br>
-🌎 I’m looking to collaborate on **projects addressing climate change and global warming**<br>
-  <br>
+<!-- 🌎 I’m looking to collaborate on **projects addressing climate change and global warming**<br>
+  <br> -->
 👯 I enjoy working with Latino small business owners to help them realize their WEB dreams. <br>
 <br>
   🧟‍♀️ Fun fact **Your brain is constantly eating itself**<br>
